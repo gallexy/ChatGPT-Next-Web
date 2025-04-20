@@ -656,6 +656,7 @@
 }
 
 .chat-input:focus {
+  border: 1px solid var(--primary);
 }
 
 .chat-input-send {
